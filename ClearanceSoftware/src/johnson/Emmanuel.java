@@ -147,10 +147,8 @@ public class Emmanuel
 		//Display the summation of all taxes and CIF in UGX..........12//
 		
 		
-		double ugx = (duty + VAT_value + WHT_value + environmental_value + infrastructure_value + cost);
 		
-		
-		System.out.println("Total Cost Of The Vehicle In UGX : " + ugx);
+		System.out.println("Total Cost Of The Vehicle In UGX : " + total_cost);
 		 
 		
 	}
